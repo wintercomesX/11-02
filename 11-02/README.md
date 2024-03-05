@@ -53,6 +53,7 @@ get key
 ```
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Результат работы memcached](https://github.com/wintercomesX/11-02/blob/main/11-02/img/img2.PNG)`
 
 ### Задание 4
@@ -69,4 +70,5 @@ get key3
 ```
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Результат работы redis](https://github.com/wintercomesX/11-02/blob/main/11-02/img/img3.PNG)`
